@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\vaish\Desktop\Motorola_Hacakthon\projects\c++\RBFA_project\main_source_code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vaish\Desktop\Motorola_Hacakthon\projects\c++\RBFA_project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F4C64280-2999-36D5-856C-50DFD68B3D92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

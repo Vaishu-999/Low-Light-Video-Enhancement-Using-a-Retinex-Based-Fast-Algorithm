@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vaish\Desktop\Motorola_Hacakthon\projects\c++\RBFA_project\build\CMakeFiles\e3ebdf6177aa5f6ae954578e164d9227\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vaish\Desktop\Motorola_Hacakthon\projects\c++\RBFA_project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\vaish\Desktop\Motorola_Hacakthon\projects\c++\RBFA_project\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{09B1B802-8853-3235-9013-AEC107339EC4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
