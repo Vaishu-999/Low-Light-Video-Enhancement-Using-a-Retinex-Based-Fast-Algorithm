@@ -1,7 +1,7 @@
 # Low-Light-Video-Enhancement-Using-a-Retinex-Based-Fast-Algorithm
 
 ## Description
-This project is an extended version of the [Low-Light-Enhancement-Using-a-Retinex-Based-Fast-Algorithm](https://github.com/Vaishu-999/Low-Light-Image-Enhancement-Using-a-Retinex-Based-Fast-Algorithm), originally implemented in Python and MATLAB for image enhancement under low-light conditions.
+This project is an extended version of the [Low-Light-Image-Enhancement-Using-a-Retinex-Based-Fast-Algorithm](https://github.com/Vaishu-999/Low-Light-Image-Enhancement-Using-a-Retinex-Based-Fast-Algorithm), originally implemented in Python and MATLAB for image enhancement under low-light conditions.
 
 In this extended version, the algorithm has been re-implemented and optimized in **C++**, and further enhanced to support:
 - **Real-time low-light video enhancement**
@@ -37,16 +37,16 @@ This version was developed as part of a hackathon initiative, focusing on speed,
 - CMake
 - Visual Studio / VS Code with C++ extensions
 
-### 📺 C++ Setup Video Tutorial (Recommended)
+### C++ Setup Video Tutorial (Recommended)
 Watch this to learn how to set up a complete C++ + OpenCV + CMake project in VS Code:  
 📹 [https://www.youtube.com/watch?v=CnXUTG9XYGI](https://www.youtube.com/watch?v=CnXUTG9XYGI)
 
-## ⚙️ Build and Run (VS Code Terminal Example)
+### Build and Run (VS Code Terminal Example)
   
   cmake -B .\build\
   cmake --build .\build\
   .\build\Debug\RBFA_project.exe
-  # To clean build directory (if needed):
+  ### To clean build directory (if needed):
   Remove-Item -Recurse -Force .\build\
 ## Reference
 This project extends the original work:
